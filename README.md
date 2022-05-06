@@ -9,3 +9,5 @@
 - While developing the process, you should pay attention to all course contents' tricks such as Argument directions - In, Out or In/Out -, usage of Queue etc.
 
 - If you gonna have questions, please ask me via [my LinkedIn account](https://www.linkedin.com/in/berna-zehra-ural/)
+
+![Score of assignment](https://i.hizliresim.com/b9pwh38.jpeg)
